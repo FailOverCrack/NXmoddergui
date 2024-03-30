@@ -5,7 +5,7 @@ The goal of this program is to make modding the switch as easy as possible
 # What does the software at this time?
 The only thing that this software will do this time is downloading and extracting the latest Atmosphere ZIP.
 # How to use?
-If you want to use this program you have to compile it yourself for now.
+If you want to use this program you can download a release or compile it yourself.
 As soon as you have the program open, simply enter the path to your SD card where the files should be written to. That's it
 # Development
 I'm looking for developers to help with the project.
