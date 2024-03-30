@@ -17,4 +17,4 @@ Here an little to do list:
 
 Feel free and add your own ideas to the Project
 
-Thankyou
+Thank you
